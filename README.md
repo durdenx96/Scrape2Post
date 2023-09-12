@@ -1,5 +1,5 @@
 # Scrape2Post
-This very gray area Click tool scrapes web article content using newspaper3k, paraphrases the content using a NLP model (Hugging face - tuner007/pegasus_paraphrase) and posts said content to wordpress drafts using its API.
+This Click tool scrapes web article content using newspaper3k, paraphrases the content using a NLP model (Hugging face - tuner007/pegasus_paraphrase) and posts said content to wordpress drafts using its API.
 To use this tool you will need to;
 
 a, install necessary dependencies (check import statements)
