@@ -17,5 +17,5 @@ f, Run with ``` python scrape2post.py scrape_and_post url https://target-article
 g, Scrape2Post Click tool can also output summary, title, authors, etc of scraped article using Newspaper3k, load print statement on line 110 as necessary.
 
 PS:
- The specific NLP model used in this is lightweight and adequate but has drawbacks dealing with high content text. Edit the output before publishing or change the model if necessary.
+ The specific NLP model used in this is lightweight and adequate but has drawbacks dealing with high content text. Edit the output before publishing or [change]([https://www.google.com](https://huggingface.co/models?pipeline_tag=text2text-generation)https://huggingface.co/models?pipeline_tag=text2text-generation) the model if necessary.
 
