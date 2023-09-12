@@ -16,6 +16,6 @@ f, Run with ``` python scrape2post.py scrape_and_post url https://target-article
 
 g, Scrape2Post Click tool can also output summary, title, authors, etc of scraped article using Newspaper3k, load print statement on line 110 as necessary.
 
-PS
-NLP Model can be changed depending on the task, the specific pegasus model used in this is lightweight and has drawbacks dealing with large text. Change if necessary.
+PS:
+ The specific NLP model used in this is lightweight and adequate but has drawbacks dealing with high content text. Edit the output before publishing or change the model if necessary.
 
